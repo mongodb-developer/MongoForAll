@@ -1,0 +1,7 @@
+{
+    "app_id": "realmtest-bnncp",
+    "config_version": 20210101,
+    "name": "RealmTest",
+    "location": "IE",
+    "deployment_model": "LOCAL"
+}
