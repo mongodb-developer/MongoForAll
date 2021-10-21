@@ -46,4 +46,13 @@ npm-install -g mongodb-realm-cli
 realm-cli login
 
 realm-cli pull --include-hosting --include-dependencies 
+https://github.com/mongodb-developer/MongoForAll
+
+Download using Git or the Zip
+
+realm-cli push --include-hosting --include-dependencies 
+
+Answer Questions (Defaults / yes)
+
+Then Realm-cli apps list get the 6 charcacter code realmtest-XXXXX
 
